@@ -102,7 +102,7 @@ defmodule XcodeprojGenerator do
         #{ids[:app_product]} /* DefdoSelfCare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DefdoSelfCare.app; sourceTree = BUILT_PRODUCTS_DIR; };
         #{ids[:info_plist]} /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
         #{ids[:entitlements]} /* DefdoSelfCare.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = DefdoSelfCare.entitlements; sourceTree = "<group>"; };
-        #{ids[:app_source]} /* DefdoSelfCareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DefdoSelfCareApp.swift; path = ../Sources/DefdoSelfCare/DefdoSelfCareApp.swift; sourceTree = SOURCE_ROOT; };
+        #{ids[:app_source]} /* DefdoSelfCareApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DefdoSelfCareApp.swift; path = Sources/DefdoSelfCare/DefdoSelfCareApp.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

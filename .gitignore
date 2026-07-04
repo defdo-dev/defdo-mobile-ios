@@ -2,6 +2,7 @@ DerivedData/
 *.xcworkspace/xcuserdata/
 *.xcodeproj/xcuserdata/
 .build/
+.swiftpm/
 # NOTE: never ignore Packages/ — that is where DefdoAuthMobile and
 # DefdoThemeMobile source packages live. SPM dependency checkouts go to
 # .build/checkouts, which is already ignored.
